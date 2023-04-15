@@ -27,4 +27,7 @@ Once the Python script is executed, it listens in on any keystroks and logs that
 
 [More about keyloggers](https://www.malwarebytes.com/keylogger)
 
-*With this exercise, I did not participate nor do I condone to the use of keyloggers for illegal purpsoses. And neither should you : )*
+*With this exercise, I did not participate nor do I condone to the use of keyloggers for illegal purpsoses. And neither should you. : )*
+![donkey](https://user-images.githubusercontent.com/67354346/232254368-6146b019-5a04-44d1-ad8d-e639b8ed75fc.gif)
+
+
